@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 尊勝菩薩所問一切諸法入無量門陀羅尼經
+#+DATE: 2015-08-30 20:35:25.494601
+#+PROPERTY: JUAN 0
